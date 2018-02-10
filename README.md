@@ -112,6 +112,27 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 8. [The 8th International Cybersecurity Data Mining Competition 2017](http://www.csmining.org/cdmc2017/) - Mr. VinayaKumar R
 
+### Invited Talks
+
+1. Title: Deep Learning in IEEE (3451) at Kalasalingam Academy of Research and Education, Virudhunagar, Saturday, 3 February 2018.
+
+2. Title: Deep Learning for Bio-medical Applications in ICMR sponsored Faculty Development Program (FDP) at Mepco Schlenk Engineering College, Sivakasi, Wednesday, 17 January 2018.
+
+3. Title: Deep Learning for Bio-medical Applications in TEQUIP sponsored Faculty Development Program (FDP) at TKM College of Engineering, Kollam, 14 December 2017.
+
+4. Title: Deep Learning for Cyber Security use cases in Bharathiar University at the University conference hall on 21/11/17.
+
+5. Title: Deep Learning for Chemistry in DeepChem 2017: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, December 22-24, 2017.
+
+6. Title: Deep learning for Healthcare and financial data analytics in DeepSci 2017 Workshop: Deep Learning for Healthcare and Financial Data Analytics, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, December 16, 2017.
+
+7. Title: Deep Learning for Blockchain in Blockchain 2017 Workshop: Blockchain and Machine Learning, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, December 16, 2017.
+
+8. Title: Deep Learning for Cyber Security use cases in AISec 2017 Workshop: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security, Conducted by the Department of Computational Engineering and Networking, Amrita Vishwa Vidyapeetham, Saturday, October 28, 2017.
+
+9. Title: Deep learning for Cyber Security In Deep learning Workshop organized by Amrita University, Coimbatore.
+
+10. Demo on LSTM based Android Malware classification in TEQIP II sponsored research workshop on deep learning, PSG Tech, Coimbatore.
 
 #### [**Workshops conducted by Cybersecurity group at CEN**]
 
