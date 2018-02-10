@@ -18,9 +18,9 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/)
 
-[Mr. Anu V, Research Assistant](http://captanu.wordpress.com/)
+[Anu V, Research Assistant](http://captanu.wordpress.com/)
 
-[Mr. Harikrishnan N B, MTech student](https://barathiganesh-hb.github.io/)
+[Mr. Harikrishnan N B, MTech student](https://harikrishnannb.blogspot.in/)
 
 #### Funded Projects in CyberSecurity Domain
 1. Information Security Assurance funded by paramount computer systems - Principal investigator Dr. Soman KP.
