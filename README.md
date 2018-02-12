@@ -4,7 +4,7 @@
 
 Centre for Excellence in Computational Engineering and Networking ([CEN](https://www.amrita.edu/center/computational-engineering-and-networking))
 
-Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
+Amrita Vishwa Vidyapeetham (https://www.amrita.edu/).
 
 #### Mentors specialized in Cybersecurity, Machine Learning and Deep Learning
 [Dr. Soman K P](https://www.amrita.edu/faculty/kp-soman)
