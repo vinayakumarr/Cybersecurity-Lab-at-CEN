@@ -37,13 +37,9 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 
 4. Comparative study of the detection of malicious URLs using Shallow and Deep Networks
 
-5. Deep-Ransomware-Detect: Detecting Ransomware using Deep Neural Network
+6. Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system
 
-6. Deep-Net: Deep Neural Network for Cyber Security Use Cases
-
-7. Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system
-
-8. Shallow and Deep Neural Network Intrusion Detection System
+7. Shallow and Deep Neural Network Intrusion Detection System
 
 #### Publications
 
