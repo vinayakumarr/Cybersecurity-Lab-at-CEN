@@ -22,6 +22,8 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 
 [Mr. Harikrishnan N B, MTech student](https://harikrishnannb.blogspot.in/)
 
+[Mr. Akarsh S, MTech student]
+
 #### Funded Projects in CyberSecurity Domain
 1. Information Security Assurance funded by paramount computer systems - Principal investigator Dr. Soman KP.
 
