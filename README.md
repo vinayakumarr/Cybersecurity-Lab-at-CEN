@@ -52,17 +52,33 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 
 #### Under-Review
 
-1. Deep-URL: A Deep Dive to Catch Malicious URLs using Deep learning with Character Embeddings
+Harikrishnan Nb, Vinayakumar R and Soman Kp, CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
 
-2. Deep-DGA-Detect: Applying Deep Learning to DGA based Malware Detection at Scale
+Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
 
-3. Deep Learning based Phishing URL Detection
+Barathi Ganesh Hb, Vinayakumar R, Soman Kp and Anand Kumar M, Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018 [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
 
-4. Comparative study of the detection of malicious URLs using Shallow and Deep Networks
+Anu Vazhayil, Vinayakumar R and Soman Kp, CENSec@Amrita: Spam Detection using classical Machine learning techniques [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
 
-6. Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system
+Nidhin Unnithan, Harikrishnan Nb, Akarsh S, Vinayakumar R and Soman Kp, Security-CEN@Amrita Machine learning based Spam E-mail detection [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
 
-7. Shallow and Deep Neural Network Intrusion Detection System
+Vysakh S Mohan, Naveen J R, Vinayakumar R and Soman K P, A.R.E.S: Automatic Rogue Email Spotter [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
+
+Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, CEN-DeepSpam: Deep learning based spam detection [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
+
+Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna, CEN-SecureNLP Detecting E-mail spam using Machine learning techniques [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
+
+Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors, [BioSTAR 2018](http://biostar.cybersecurity.bio/) (Accepted)
+
+Harikrishnan Nb, Vinayakumar R and Soman Kp, Deep Learning based Phishing URL Detection”, RCDDS 2018(http://www.nrcdds.com/)
+
+Anu Vazhayil, Vinayakumar R and Soman Kp, Comparative study of the detection of malicious URLs using Shallow and Deep Networks, RCDDS 2018(http://www.nrcdds.com/)
+
+Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, Deep-Net: Deep Neural Network for Cyber Security Use Cases, RCDDS 2018(http://www.nrcdds.com/)
+
+Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, Shallow and Deep Neural Network Intrusion Detection System RCDDS 2018(http://www.nrcdds.com/)
+
+Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system RCDDS 2018(http://www.nrcdds.com/)
 
 #### Publications
 
