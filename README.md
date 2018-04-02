@@ -110,6 +110,8 @@ Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, Performance comparis
 
 14. Evaluating Shallow and Deep Networks for Ransomware Detection and Classification
 
+15. Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)
+
 
 #### Team names in IWSPA-AP Shared Task
 
