@@ -6,22 +6,35 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 
 [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/).
 
-#### Mentors specialized in Cybersecurity, Machine Learning and Deep Learning
+#### Mentors specialized in Data science
 [Dr. Soman K P](https://www.amrita.edu/faculty/kp-soman)
 
-[Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna)
+#### Mentors specialized in Cybersecurity
+[Dr. Prabaharan Poornachandran Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham, Coimbatore, India](https://scholar.google.com/citations?user=e233m6MAAAAJ&hl=en)
 
-[Sowmya V](http://nlp.amrita.edu/sowmyav/)
+#### Mentors specialized in Complex systems for Cybersecurity
+[Dr. E. A. Gopalakrishnan ](https://www.amrita.edu/faculty/ea-gopalakrishnan)
+
+#### Mentors specialized in NLP for Cybersecurity
+[Dr. Govind D.](https://www.amrita.edu/faculty/d-govind)
 
 [Dr. Anand Kumar M](https://www.amrita.edu/faculty/m-anandkumar)
 
-#### Mentors specialized in Cybersecurity, Machine Learning and Deep Learning - Guest faculty
+#### Mentors specialized in Big data Analytics for Cybersecurity
+[Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna)
 
-[Dr. Prabaharan Poornachandran Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham, Coimbatore, India](https://scholar.google.com/citations?user=e233m6MAAAAJ&hl=en)
+#### Mentors specialized in Signal and Image processing for Cybersecurity
+[Sowmya V](http://nlp.amrita.edu/sowmyav/)
 
+#### Mentors specialized in IOT Security
+[Mr. Sajith Variyar V. V.](https://www.amrita.edu/faculty/vv-sajithvariyar)
+
+#### Mentors specialized in Malware Analysis
 [Mr. Pradeep Menon](https://lakhshyalabs.com/)
 
-#### Research Scholars specialized in Natural Language Processing, Machine Learning and Deep Learning
+[Mr. K.K.Senthil Velan](https://lakhshyalabs.com/)
+
+#### Research Scholars specialized in Natural Language Processing, Machine Learning and Deep Learning for Cybersecurity
 [Mr. Vinayakumar R](https://vinayakumarr.github.io/)
 
 [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/)
@@ -114,7 +127,7 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 
 6. [The 8th International Cybersecurity Data Mining Competition 2017](http://www.csmining.org/cdmc2017/) - Mr. VinayaKumar R and Mr. Barathi Ganesh HB
 
-7. [The 8th International Cybersecurity Data Mining Competition 2017](http://www.csmining.org/cdmc2017/) - Vigneshwari Vaithilingam, Anu V and Mr. VinayaKumar R
+7. [The 8th International Cybersecurity Data Mining Competition 2017](http://www.csmining.org/cdmc2017/) - Mr. Harikrishnan NB, Anu V and Mr. VinayaKumar R
 
 8. [The 8th International Cybersecurity Data Mining Competition 2017](http://www.csmining.org/cdmc2017/) - Mr. VinayaKumar R
 
