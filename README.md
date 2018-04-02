@@ -9,9 +9,17 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 #### Mentors specialized in Cybersecurity, Machine Learning and Deep Learning
 [Dr. Soman K P](https://www.amrita.edu/faculty/kp-soman)
 
+[Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna)
+
+[Sowmya V](http://nlp.amrita.edu/sowmyav/)
+
 [Dr. Anand Kumar M](https://www.amrita.edu/faculty/m-anandkumar)
 
-[Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna)
+#### Mentors specialized in Cybersecurity, Machine Learning and Deep Learning - Guest faculty
+
+[Dr. Prabaharan Poornachandran Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham, Coimbatore, India](https://scholar.google.com/citations?user=e233m6MAAAAJ&hl=en)
+
+[Mr. Pradeep Menon](https://lakhshyalabs.com/)
 
 #### Research Scholars specialized in Natural Language Processing, Machine Learning and Deep Learning
 [Mr. Vinayakumar R](https://vinayakumarr.github.io/)
