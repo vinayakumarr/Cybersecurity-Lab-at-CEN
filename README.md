@@ -70,15 +70,15 @@ Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna
 
 Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors, [BioSTAR 2018](http://biostar.cybersecurity.bio/) (Accepted)
 
-Harikrishnan Nb, Vinayakumar R and Soman Kp, Deep Learning based Phishing URL Detection”, RCDDS 2018(http://www.nrcdds.com/)
+Harikrishnan Nb, Vinayakumar R and Soman Kp, Deep Learning based Phishing URL Detection”, [RCDDS 2018](http://www.nrcdds.com/)
 
-Anu Vazhayil, Vinayakumar R and Soman Kp, Comparative study of the detection of malicious URLs using Shallow and Deep Networks, RCDDS 2018(http://www.nrcdds.com/)
+Anu Vazhayil, Vinayakumar R and Soman Kp, Comparative study of the detection of malicious URLs using Shallow and Deep Networks, [RCDDS 2018](http://www.nrcdds.com/)
 
-Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, Deep-Net: Deep Neural Network for Cyber Security Use Cases, RCDDS 2018(http://www.nrcdds.com/)
+Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, Deep-Net: Deep Neural Network for Cyber Security Use Cases, [RCDDS 2018](http://www.nrcdds.com/)
 
-Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, Shallow and Deep Neural Network Intrusion Detection System RCDDS 2018(http://www.nrcdds.com/)
+Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, Shallow and Deep Neural Network Intrusion Detection System [RCDDS 2018](http://www.nrcdds.com/)
 
-Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system RCDDS 2018(http://www.nrcdds.com/)
+Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system [RCDDS 2018](http://www.nrcdds.com/)
 
 #### Publications
 
