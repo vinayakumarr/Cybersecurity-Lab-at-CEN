@@ -16,9 +16,9 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 [Dr. E. A. Gopalakrishnan ](https://www.amrita.edu/faculty/ea-gopalakrishnan)
 
 #### Mentors specialized in NLP for Cybersecurity
-[Dr. Govind D.](https://www.amrita.edu/faculty/d-govind)
-
 [Dr. Anand Kumar M](https://www.amrita.edu/faculty/m-anandkumar)
+
+[Dr. Govind D.](https://www.amrita.edu/faculty/d-govind)
 
 #### Mentors specialized in Big data Analytics for Cybersecurity
 [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna)
