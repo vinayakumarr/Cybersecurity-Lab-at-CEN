@@ -7,7 +7,7 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/).
 
 #### Mentors specialized in Data science
-[Dr. Soman K P](https://www.amrita.edu/faculty/kp-soman)
+[Dr. Soman K P](http://nlp.amrita.edu/somankp)
 
 #### Mentors specialized in Cybersecurity
 [Dr. Prabaharan Poornachandran Center for Cyber Security Systems and Networks, Amrita Vishwa Vidyapeetham, Coimbatore, India](https://scholar.google.com/citations?user=e233m6MAAAAJ&hl=en)
