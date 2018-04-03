@@ -71,24 +71,6 @@ Vinayakumar R, Soman KP and Prabaharan Poornachandran "Detecting Malicious Domai
 
 Vinayakumar R, Soman KP and Prabaharan Poornachandran "Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)" IJISMD [under print]
 
-#### Shared task working notes
-
-Harikrishnan Nb, Vinayakumar R and Soman Kp, “CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection” IWSPA-AP
-
-Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, “DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection” IWSPA-AP
-
-Barathi Ganesh Hb, Vinayakumar R, Soman Kp and Anand Kumar M, “Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018” IWSPA-AP
-
-Anu Vazhayil, Vinayakumar R and Soman Kp, “CENSec@Amrita: Spam Detection using classical Machine learning techniques” IWSPA-AP
-
-Nidhin Unnithan, Harikrishnan Nb, Akarsh S, Vinayakumar R and Soman Kp, “Security-CEN@Amrita Machine learning based Spam E-mail detection” IWSPA-AP
-
-Vysakh S Mohan, Naveen J R, Vinayakumar R and Soman K P, “A.R.E.S: Automatic Rogue Email Spotter” IWSPA-AP
-
-Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, “CEN-DeepSpam: Deep learning based spam detection” IWSPA-AP
-
-Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna, “CEN-SecureNLP Detecting E-mail spam using Machine learning techniques” IWSPA-AP
-
 #### Conference papers
 
 Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, “S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors”, BioSTAR 2018 (accepted)
@@ -127,6 +109,23 @@ M. Jocelyn Babu V.Sowmya KP Soman "Fast Fourier Transform and Nonlinear Circuits
 
 R K Rahul T Anjali Vijay Krishna Menon KP Soman "Deep Learning for Network Flow Analysis and Malware Classification"
 
+#### Shared task working notes
+
+Harikrishnan Nb, Vinayakumar R and Soman Kp, “CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection” IWSPA-AP
+
+Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, “DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection” IWSPA-AP
+
+Barathi Ganesh Hb, Vinayakumar R, Soman Kp and Anand Kumar M, “Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018” IWSPA-AP
+
+Anu Vazhayil, Vinayakumar R and Soman Kp, “CENSec@Amrita: Spam Detection using classical Machine learning techniques” IWSPA-AP
+
+Nidhin Unnithan, Harikrishnan Nb, Akarsh S, Vinayakumar R and Soman Kp, “Security-CEN@Amrita Machine learning based Spam E-mail detection” IWSPA-AP
+
+Vysakh S Mohan, Naveen J R, Vinayakumar R and Soman K P, “A.R.E.S: Automatic Rogue Email Spotter” IWSPA-AP
+
+Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, “CEN-DeepSpam: Deep learning based spam detection” IWSPA-AP
+
+Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna, “CEN-SecureNLP Detecting E-mail spam using Machine learning techniques” IWSPA-AP
 
 #### Team names in IWSPA-AP Shared Task
 
