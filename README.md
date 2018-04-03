@@ -50,67 +50,83 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 
 2. Early Warning Framework Phase 2 - Network Security Situational Awareness and Countermeasures using DNS, BGP, Netflow and Remote Content Inception funded by DIETY, Govt. of India - Principal investigator Dr. Prabaharan Poornachandran, Co-PI Dr. Soman KP.
 
-#### Under-Review
-
-Harikrishnan Nb, Vinayakumar R and Soman Kp, CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
-
-Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
-
-Barathi Ganesh Hb, Vinayakumar R, Soman Kp and Anand Kumar M, Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018 [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
-
-Anu Vazhayil, Vinayakumar R and Soman Kp, CENSec@Amrita: Spam Detection using classical Machine learning techniques [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
-
-Nidhin Unnithan, Harikrishnan Nb, Akarsh S, Vinayakumar R and Soman Kp, Security-CEN@Amrita Machine learning based Spam E-mail detection [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
-
-Vysakh S Mohan, Naveen J R, Vinayakumar R and Soman K P, A.R.E.S: Automatic Rogue Email Spotter [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
-
-Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, CEN-DeepSpam: Deep learning based spam detection [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
-
-Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna, CEN-SecureNLP Detecting E-mail spam using Machine learning techniques [IWSPA-AP](https://dasavisha.github.io/IWSPA-sharedtask/)
-
-Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors, [BioSTAR 2018](http://biostar.cybersecurity.bio/) (Accepted)
-
-Harikrishnan Nb, Vinayakumar R and Soman Kp, Deep Learning based Phishing URL Detection”, [RCDDS 2018](http://www.nrcdds.com/)
-
-Anu Vazhayil, Vinayakumar R and Soman Kp, Comparative study of the detection of malicious URLs using Shallow and Deep Networks, [RCDDS 2018](http://www.nrcdds.com/)
-
-Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, Deep-Net: Deep Neural Network for Cyber Security Use Cases, [RCDDS 2018](http://www.nrcdds.com/)
-
-Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, Shallow and Deep Neural Network Intrusion Detection System [RCDDS 2018](http://www.nrcdds.com/)
-
-Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system [RCDDS 2018](http://www.nrcdds.com/)
-
 #### Publications
 
-1. Scalable Framework for Cyber Threat Situational Awareness based on Domain Name Systems Data Analysis
+#### Bookchapters
 
-2. Detecting Android Malware using Long Short-term Memory-LSTM
+Vinayakumar R, Soman KP, Prabaharan Poornachandran, Pradeep Menon "A deep-dive on Machine learning for Cybersecurity use cases, MLCCS 2018 "[under review]
 
-3. Evaluating Deep Learning Approaches to Characterize and Classify the DGAs at Scale
+Vinayakumar R, Prabaharan Poornachandran, Soman KP, "Scalable Framework for Cyber Threat Situational Awareness based on Domain
+Name Systems Data Analysis", Big data in Engineering Applications, Springer[under print]
 
-4. Evaluating Deep learning Approaches to Characterize, Signalize and Classify malicious URLs
+#### Journals
 
-5. Detecting Malicious Domain Names using Deep Learning Approaches at Scale
+Vinayakumar R, Soman KP, Prabaharan Poornachandran and Sachin Kumar S "Detecting Android Malware using Long Short-term Memory-LSTM" Journal of Intelligent and Fuzzy Systems - IOS Press
 
-6. Evaluating Shallow and Deep Networks for Secure Shell (SSH) Traffic Analysis
+Vinayakumar R, Soman KP, Prabaharan Poornachandran and Sachin Kumar S "Evaluating Deep Learning Approaches to Characterize and Classify the DGAs at Scale" Journal of Intelligent and Fuzzy Systems - IOS Press
 
-7. Evaluating Effectiveness of Shallow and Deep Networks to Intrusion Detection System
+Vinayakumar R, Soman KP and Prabaharan Poornachandran "Evaluating Deep learning Approaches to Characterize, Signalize and Classify malicious URLs" Journal of Intelligent and Fuzzy Systems - IOS Press
 
-8. Deep Android Malware Detection and Classification
+Vinayakumar R, Soman KP and Prabaharan Poornachandran "Detecting Malicious Domain Names using Deep Learning Approaches at Scale" Journal of Intelligent and Fuzzy Systems - IOS Press
 
-9. Long Short-Term Memory based Operation Log Anomaly Detection
+Vinayakumar R, Soman KP and Prabaharan Poornachandran "Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)" IJISMD (under print)
 
-10. Deep Encrypted Text Categorization
+#### Shared task working notes
 
-11. Applying Convolutional Neural Network for Network Intrusion Detection
+Harikrishnan Nb, Vinayakumar R and Soman Kp, “CEN-Security@IWSPA 2018: A Machine learning approach towards Spam Detection” IWSPA-AP
 
-12. Secure Shell (SSH) Traffic Analysis with Flow based Features Using Shallow and Deep networks
+Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, “DeepAnti-PhishNet: Applying Deep Neural Networks for E-mail Spam Detection” IWSPA-AP
 
-13. Applying Deep Learning Approaches for Network Traffic Prediction
+Barathi Ganesh Hb, Vinayakumar R, Soman Kp and Anand Kumar M, “Distributed Representation using Target Classes: Bag of Tricks for Security and Privacy Analytics Amrita-NLP@IWSPA 2018” IWSPA-AP
 
-14. Evaluating Shallow and Deep Networks for Ransomware Detection and Classification
+Anu Vazhayil, Vinayakumar R and Soman Kp, “CENSec@Amrita: Spam Detection using classical Machine learning techniques” IWSPA-AP
 
-15. Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)
+Nidhin Unnithan, Harikrishnan Nb, Akarsh S, Vinayakumar R and Soman Kp, “Security-CEN@Amrita Machine learning based Spam E-mail detection” IWSPA-AP
+
+Vysakh S Mohan, Naveen J R, Vinayakumar R and Soman K P, “A.R.E.S: Automatic Rogue Email Spotter” IWSPA-AP
+
+Hiransha M, Nidhin Unnithan, Vinayakumar R and Soman Kp, “CEN-DeepSpam: Deep learning based spam detection” IWSPA-AP
+
+Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna, “CEN-SecureNLP Detecting E-mail spam using Machine learning techniques” IWSPA-AP
+
+#### Conference papers
+
+Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, “S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors”, BioSTAR 2018 (accepted)
+
+Harikrishnan Nb, Vinayakumar R and Soman Kp, “Deep Learning based Phishing URL Detection”,, RCDDS 2018 (under review)
+
+Anu Vazhayil, Vinayakumar R and Soman Kp, “Comparative study of the detection of malicious URLs using Shallow and Deep Networks”,, RCDDS 2018 (under review)
+
+Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, “Deep-Net: Deep Neural Network for Cyber Security Use Cases”, RCDDS 2018 (under review)
+
+Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, “Shallow and Deep Neural Network Intrusion Detection System”,, RCDDS 2018. (under review)
+
+Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, “Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system”,, RCDDS 2018 (under review)
+
+
+Vinayakumar R, Soman KP and Prabaharan Poornachandran, "Evaluating Shallow and Deep Networks for Secure Shell (SSH)Traffic Analysis"
+
+Vinayakumar R, Soman KP and Prabaharan Poornachandran, "Evaluating Effectiveness of Shallow and Deep Networks to Intrusion Detection System"
+
+Vinayakumar R, Soman KP and Prabaharan Poornachandran, "Deep Android Malware Detection and Classification."
+
+Vinayakumar R, Soman KP and Prabaharan Poornachandran, "Long Short-Term Memory based Operation Log Anomaly Detection."
+
+Vinayakumar R, Soman KP and Prabaharan Poornachandran, "Deep Encrypted Text Categorization."
+
+Vinayakumar R, Soman KP and Prabaharan Poornachandran, "Applying Convolutional Neural Network for Network Intrusion Detection."
+
+Vinayakumar R, Soman KP and Prabaharan Poornachandran, "Secure Shell (SSH) Traffic Analysis with Flow based Features Using Shallow and Deep networks."
+
+Vinayakumar R, Soman KP and Prabaharan Poornachandran, "Applying Deep Learning Approaches for Network Traffic Prediction." 
+
+Vinayakumar R, Soman KP, K.K.Senthil Velan and Shaunak Ganorkar, "Evaluating Shallow and Deep Networks for Ransomware Detection and Classification." 
+
+B. Ashwini, Vijay Krishna Menon, KP Soman "Prediction of Malicious Domains Using Smith Waterman Algorithm"
+
+M. Jocelyn Babu V.Sowmya KP Soman "Fast Fourier Transform and Nonlinear Circuits Based Approach for Smart Meter Data Security"
+
+R K Rahul T Anjali Vijay Krishna Menon KP Soman "Deep Learning for Network Flow Analysis and Malware Classification"
 
 
 #### Team names in IWSPA-AP Shared Task
