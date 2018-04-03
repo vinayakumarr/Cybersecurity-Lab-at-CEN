@@ -57,7 +57,7 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 Vinayakumar R, Soman KP, Prabaharan Poornachandran, Pradeep Menon "A deep-dive on Machine learning for Cybersecurity use cases, MLCCS 2018 "[under review]
 
 Vinayakumar R, Prabaharan Poornachandran, Soman KP, "Scalable Framework for Cyber Threat Situational Awareness based on Domain
-Name Systems Data Analysis", Big data in Engineering Applications, Springer[under print]
+Name Systems Data Analysis", Big data in Engineering Applications, Springer [under print]
 
 #### Journals
 
@@ -69,7 +69,7 @@ Vinayakumar R, Soman KP and Prabaharan Poornachandran "Evaluating Deep learning 
 
 Vinayakumar R, Soman KP and Prabaharan Poornachandran "Detecting Malicious Domain Names using Deep Learning Approaches at Scale" Journal of Intelligent and Fuzzy Systems - IOS Press
 
-Vinayakumar R, Soman KP and Prabaharan Poornachandran "Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)" IJISMD (under print)
+Vinayakumar R, Soman KP and Prabaharan Poornachandran "Evaluation of Recurrent Neural Network and its variants for Intrusion Detection System (IDS)" IJISMD [under print]
 
 #### Shared task working notes
 
@@ -93,16 +93,15 @@ Vinayakumar R, Harikrishnan Nb, Nidhin Unnithan, Soman Kp and Sai Sundarakrishna
 
 Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, “S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors”, BioSTAR 2018 (accepted)
 
-Harikrishnan Nb, Vinayakumar R and Soman Kp, “Deep Learning based Phishing URL Detection”,, RCDDS 2018 (under review)
+Harikrishnan Nb, Vinayakumar R and Soman Kp, “Deep Learning based Phishing URL Detection”,, RCDDS 2018 [under print]
 
-Anu Vazhayil, Vinayakumar R and Soman Kp, “Comparative study of the detection of malicious URLs using Shallow and Deep Networks”,, RCDDS 2018 (under review)
+Anu Vazhayil, Vinayakumar R and Soman Kp, “Comparative study of the detection of malicious URLs using Shallow and Deep Networks”,, RCDDS 2018 [under print]
 
-Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, “Deep-Net: Deep Neural Network for Cyber Security Use Cases”, RCDDS 2018 (under review)
+Vinayakumar R, Barathi Ganesh H B, Prabaharan Poornachandran, Anand Kumar M and Soman Kp, “Deep-Net: Deep Neural Network for Cyber Security Use Cases”, RCDDS 2018 [under print]
 
-Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, “Shallow and Deep Neural Network Intrusion Detection System”,, RCDDS 2018. (under review)
+Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, “Shallow and Deep Neural Network Intrusion Detection System”,, RCDDS 2018. [under print]
 
-Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, “Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system”,, RCDDS 2018 (under review)
-
+Harikrishnan Nb, Vinayakumar R, Soman Kp and Pradeep Menon, “Performance comparison of Deep learning and classical Machine learning in Network traffic intrusion detection system”,, RCDDS 2018 [under print]
 
 Vinayakumar R, Soman KP and Prabaharan Poornachandran, "Evaluating Shallow and Deep Networks for Secure Shell (SSH)Traffic Analysis"
 
