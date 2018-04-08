@@ -6,7 +6,7 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 
 [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/).
 
-Cybersecurity group at CEN is organizing a shared task in Cybersecurity domain. More details avilable at [DMD2018] (http://nlp.amrita.edu/DMD2018/)
+Cybersecurity group at CEN is organizing a shared task in Cybersecurity domain. More details avilable at [DMD2018](http://nlp.amrita.edu/DMD2018/)
 
 Cybersecurity group at CEN understand the underlying mathematics knowledge required to apply Machine learning to Cyber Security tasks at Scale.
 
