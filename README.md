@@ -53,11 +53,6 @@ We strongly believe in open science and reproducible research and actively publi
 
 [Mr. Akarsh S, MTech student]
 
-#### Funded Projects in CyberSecurity Domain
-1. Information Security Assurance funded by paramount computer systems - Principal investigator Dr. Soman KP.
-
-2. Early Warning Framework Phase 2 - Network Security Situational Awareness and Countermeasures using DNS, BGP, Netflow and Remote Content Inception funded by DIETY, Govt. of India - Principal investigator Dr. Prabaharan Poornachandran, Co-PI Dr. Soman KP.
-
 #### Publications
 
 #### Bookchapters
