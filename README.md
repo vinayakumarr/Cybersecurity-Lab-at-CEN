@@ -42,7 +42,7 @@ We strongly believe in open science and reproducible research and actively publi
 
 [Mr. K.K.Senthil Velan](https://lakhshyalabs.com/)
 
-#### Research Scholars specialized in Natural Language Processing, Machine Learning and Deep Learning for Cybersecurity
+#### Research Scholars specialized in Cognitive security - Natural Language Processing, signal and image processing, Machine Learning and Deep Learning for Cybersecurity
 [Mr. Vinayakumar R](https://vinayakumarr.github.io/)
 
 [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/)
