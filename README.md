@@ -45,13 +45,13 @@ We strongly believe in open science and reproducible research and actively publi
 #### Research Scholars specialized in Cognitive security - Natural Language Processing, signal and image processing, Machine Learning and Deep Learning for Cybersecurity
 [Mr. Vinayakumar R](https://vinayakumarr.github.io/)
 
+[Mr. Amara Dinesh Kumar, Master's student](https://dineshresearch.github.io/)[ --> Site](https://sites.google.com/view/dineshkumaramara/home)
+
 [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/)
 
 [Anu V, Research Assistant](http://captanu.wordpress.com/)
 
 [Mr. Harikrishnan N B, MTech student](https://harikrishnannb.blogspot.in/)
-
-[Mr. Amara Dinesh Kumar, MTech student](https://dineshresearch.github.io/)
 
 [Mr. Akarsh S, MTech student]
 
