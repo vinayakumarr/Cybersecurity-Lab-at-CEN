@@ -51,6 +51,8 @@ We strongly believe in open science and reproducible research and actively publi
 
 [Mr. Harikrishnan N B, MTech student](https://harikrishnannb.blogspot.in/)
 
+[Mr. Amara Dinesh Kumar, MTech student](https://dineshresearch.github.io/)
+
 [Mr. Akarsh S, MTech student]
 
 #### Publications
