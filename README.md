@@ -51,7 +51,7 @@ We strongly believe in open science and reproducible research and actively publi
 
 [Simran K]
 
-[Mr. Amara Dinesh Kumar, Master's student](https://dineshresearch.github.io/)(https://sites.google.com/view/dineshkumaramara/home)
+[Mr. Amara Dinesh Kumar, Master's student](https://dineshresearch.github.io/)
 
 [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/)
 
