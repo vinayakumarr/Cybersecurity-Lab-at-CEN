@@ -51,6 +51,10 @@ We strongly believe in open science and reproducible research and actively publi
 
 [Simran K]
 
+[Vysakh S Mohan](https://vysakhsmohan.wixsite.com/vysakhsmohan)
+
+[Mohammed Harun Babu R](https://mhbharun.github.io/)
+
 [Mr. Amara Dinesh Kumar, Master's student](https://dineshresearch.github.io/)
 
 [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/)
