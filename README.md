@@ -49,7 +49,7 @@ We strongly believe in open science and reproducible research and actively publi
 
 [Mr. Sriram S](https://thecodinglama.github.io/)
 
-[Simran K]
+[Simran K](https://simranketha.github.io/)
 
 [Vysakh S Mohan](https://vysakhsmohan.wixsite.com/vysakhsmohan)
 
